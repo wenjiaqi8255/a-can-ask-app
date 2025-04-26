@@ -1,0 +1,1 @@
+ASD can answer questions about the current state of themselves.
